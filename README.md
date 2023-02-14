@@ -21,7 +21,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [Github repo](https://github.com/itsmemohit/fm-profile-card-component)
-- Live Site URL: [Netlify live site url](https://jade-begonia-55e575.netlify.app/)
+- Live Site URL: [Netlify live site url](https://peaceful-stroopwafel-16745e.netlify.app/)
 
 ## My process
 
